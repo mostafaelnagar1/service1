@@ -1,0 +1,151 @@
+html{ direction: rtl; }
+body{
+	background-color:#EDEDED ;
+}
+
+.form-inline input{
+	text-align: center;
+	border-color: #C4C4C4;
+	padding: 10PX;
+	margin: 20PX;
+	margin-right: 80PX;
+	width: 900px;
+
+}
+#phone1{
+margin-right: 500px;
+margin-top: 7px;
+}
+#phone2{
+	margin-right: 30px;
+	margin-top: 7px;
+}
+.bar img{
+	width: 180px;
+	height: 40px;
+}
+.bar{
+	background-color: #FFD600;
+}
+.search1 nav{
+	background-color:#EDEDED ;
+}
+
+.carousel-item img{
+	height: 600px;
+}
+#line{
+	display: block;
+	width: 115px;
+	height: 2px;
+	margin: auto;
+	background-color: #FFD600;
+}
+.inf1 {
+	border: 2px solid #EDEDED;
+	border-radius:5px ;
+	background-color: #EDEDED;
+	height: 400px;
+}
+.inf1 p{
+	padding-top: 5px;
+	font-weight: 500;
+	font-size: 26px;
+	margin-right: 0px;
+	color: #A6A6AA;
+	text-align: center;
+}
+.inf4{
+	text-align: center;
+}
+.card-body h5{
+	text-align: right;
+}
+
+.card-text {
+	text-align: right;
+}
+.part-item1 {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	grid-gap: 40px;
+	margin-right:140px;
+}
+.part1 img{
+	width: 70%;
+}
+.sec-title{
+	text-align: center;
+	margin: 10px;
+}
+.cont {
+	background-color: #EDEDED;
+	height:400px;
+}
+.cont h2{
+	text-align: center;
+	margin: 10px;
+}
+#search1{
+	margin-right: 275px;
+	margin-bottom: 40PX;
+	margin-top: 30PX;
+	border: 2px solid lightgray;
+	border-radius: 2px;
+	height: 40px;
+	text-align: center;
+	font-weight: 500;
+}
+#search2{
+	margin-right: 45px;
+	margin-top: 30px;
+	border: 2px solid lightgray;
+	border-radius: 2px;
+	text-align: center;
+	font-weight: 500;
+	height: 40px;
+}
+#search16{
+	margin-right: 290px;
+	margin-top: 10px;
+	font-weight: 500;
+	font-size: 16px;
+	padding-right: 15px;
+	text-align: right;
+	border: 2px solid lightgray;
+	border-radius: 2px;
+	width: 790px;
+	height: 200px;
+	margin-bottom: 20px;
+}
+#search12{
+	margin-right: 1015px;
+}
+.footer1 .header-content1{
+	display: flex;
+	justify-content:space-between ;
+	align-items: center;
+	background-color: #5E6163;
+	color: white;
+}
+.header-content1 img {
+ flex :1 ;
+ max-width: 220px;
+ height: 30px;
+ background-color: #5E6163;
+ margin-left: 40px;
+}
+.header-content1 nav {
+ flex: 2;
+ text-align: center;
+}
+#login1{
+	padding: 7px;
+	margin-left: 35px;
+}
+.header-content1 ul li {
+	display: inline-block;
+}
+#social{
+	text-align: right;
+}
