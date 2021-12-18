@@ -1,0 +1,98 @@
+html{
+	direction: rtl;
+}
+body{
+	background-color:#EDEDED ;
+}
+.list-unstyled{
+	list-style: none;
+}
+.bar{
+	background-color: #FFD600;
+}
+.bar img{
+	width: 180px;
+	height: 40px;
+}
+#phone1{
+margin-right: 500px;
+margin-top: 7px;
+}
+#phone2{
+	margin-right: 30px;
+	margin-top: 7px;
+}
+.form-inline input{
+	text-align: center;
+	border-color: #C4C4C4;
+	padding: 10PX;
+	margin: 20PX;
+	margin-right: 80PX;
+	width: 900px;
+}
+#line{
+	display: block;
+	width: 115px;
+	height: 2px;
+	margin-bottom: 30px;
+	background-color: gray;
+}
+#img1{
+	max-width: 700px;
+	height: 400px;
+	margin-right: 20px;
+	
+}
+#img2{
+	margin-top: 55px;
+	
+}
+#img3{
+	background-color: #EDEDED;
+	border-color: #EDEDED;
+}
+.machine-item1 {
+	display: grid;
+	grid-template-columns: auto auto  ;
+	grid-gap: 40px;
+	margin-right:0;
+}
+#line1{
+	display: block;
+	width: 70px;
+	height: 2px;
+	margin-bottom: 30px;
+	background-color: gray;
+}
+.descripiction p{
+	font-weight: 500;
+	color: #5E6163;
+}
+.footer1 .header-content1{
+	display: flex;
+	justify-content:space-between ;
+	align-items: center;
+	background-color: #5E6163;
+	color: white;
+}
+.header-content1 img {
+ flex :1 ;
+ max-width: 220px;
+ height: 30px;
+ background-color: #5E6163;
+ margin-left: 40px;
+}
+.header-content1 nav {
+ flex: 2;
+ text-align: center;
+}
+#login1{
+	padding: 7px;
+	margin-left: 35px;
+}
+.header-content1 ul li {
+	display: inline-block;
+}
+#social{
+	text-align: right;
+}
